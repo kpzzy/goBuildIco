@@ -46,3 +46,5 @@ go build 시 -o 명령어로 파일명을 입력하면 syso 인식하지못하�
 
 ex) 실패 command = go build test.exe -o main.go
 ex) 성공 command = go build
+
+끝
